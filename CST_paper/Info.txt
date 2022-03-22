@@ -1,0 +1,1 @@
+This folder contains the Magnetic Tweezers data used in Coloma, Gonzalez-Rodriguez et al. 2022. 
